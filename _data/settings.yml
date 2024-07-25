@@ -1,8 +1,8 @@
 #-------------------------------
 # Site Settings
-title: Akio
+title: C'mon! Magic
 logo: # You can add own logo. For example '/images/logo.png'.
-description: Creative Portfolio Theme for Jekyll.
+description: C'mon! Magic Pauper Series
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
 
@@ -57,7 +57,7 @@ hero:
 #-------------------------------
 # Logos Settings
 logos:
-  enable: true
+  enable: false
   logos__title: I’ve worked with some great сompanies
 
 logo__items:
@@ -88,7 +88,7 @@ logo__items:
 #-------------------------------
 # Newsletter
 mailchimp:
-  enable: true
+  enable: false
   mailchimp__identifier: frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3 # Add your MailChimp form identifier. For example - frnla.us6.list-manage.com/subscribe/post?u=6314d69a3f315af7ce3fb00a0&amp;id=3038727cc3
   mailchimp__input__text: Your email address...
   mailchimp__button__text: Subscribe
@@ -105,7 +105,7 @@ work:
 #-------------------------------
 # Testimonials Section
 testimonials:
-  enable: true
+  enable: false
 
 testimonial__title: Clients
 testimonial__description:
@@ -193,7 +193,7 @@ contact:
 #-------------------------------
 # Comment Section (Disqus)
 disqus:
-  enable: true
+  enable: false
   disqus__identifier: anvod-studio-test # Add your shortname for Disqus Comment. For example anvod-studio-test
 
 
