@@ -1,7 +1,7 @@
 #-------------------------------
 # Site Settings
 title: C'mon! Magic
-logo: # You can add own logo. For example '/images/logo.png'.
+logo: '/images/cmon.png'
 description: C'mon! Magic Pauper Series
 color_scheme: auto # You can choose three modes auto, light, and dark. By default, the auto mode is set, which means the user can choose the light or dark mode themself.
 
