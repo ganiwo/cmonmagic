@@ -30,7 +30,7 @@ menu__settings:
 # Author Settings
 author:
   author__name: C'mon! Magic
-  author__bio: Community-driven tournament series in Poland created by Pauper enthusiasts for Pauper enthusiasts. Come and play!
+  author__bio: Community-driven tournament series in Poland. Come and play!
   author__avatar: '/images/cmonavatar.jpg'
 
 social:
@@ -51,7 +51,7 @@ hero:
   enable: true
   hero__title: C'mon! Katowice 2024
   hero__description: 28th-29th September 2024
-  hero__image: "/images/cmonmagic24poster.jpg"
+  hero__image: "/images/cmonkato24poster.jpg"
 
 
 #-------------------------------
