@@ -45,7 +45,7 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: C'mon! Katowice 2024
+  hero__title: C'mon! Katowice
   hero__description: 28th-29th September 2024
   hero__image: "/images/cmonkato24poster.jpg"
 
