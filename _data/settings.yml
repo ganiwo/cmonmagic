@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: C'mon! Magic
   author__bio: Community-driven tournament series in Poland. Come and play!
-  author__avatar: '/images/cmonavatar.jpg'
+#  author__avatar: '/images/cmonavatar.jpg'
 
 social:
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/@cmonmagic/"}
@@ -46,7 +46,7 @@ social:
 hero:
   enable: true
   hero__title: C'mon! Katowice
-  hero__description: 28th-29th September 2024
+  hero__description: 28th-29th September 2024<br />Day 1<br />Pauper Main Event<br />Pauper Cube<br /><br />Day 2<br />Pauper Trio
   hero__image: "/images/cmonkato24poster.jpg"
 
 
