@@ -12,18 +12,18 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
-    - title: 'About'
-      url: '/about/'
-    - title: 'Work'
-      url: '/work/'
-    - title: 'Writing'
-      url: '/blog/'
-    - title: 'Pages'
-      submenu:
-      - url: '/contact/'
-        title: 'Contact'
-      - url: '/elements/'
-        title: 'Elements'
+#    - title: 'About'
+#      url: '/about/'
+#    - title: 'Work'
+#      url: '/work/'
+#    - title: 'Writing'
+#      url: '/blog/'
+#    - title: 'Pages'
+#      submenu:
+#      - url: '/contact/'
+#        title: 'Contact'
+#      - url: '/elements/'
+#        title: 'Elements'
 
 
 #-------------------------------
