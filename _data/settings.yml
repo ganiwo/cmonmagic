@@ -109,9 +109,9 @@ testimonial__description:
 testimonial__items:
   - name: "Aleksander Morgała"
     image: "/images/burek2024.jpg"
-    designation: "Burek"
-    link: "https://twitter.com/"
-    content : "C'mon! Poznań 2024, Walls"
+    designation: "C'mon! Poznań 2024"
+    link: "https://melee.gg/Decklist/View/375723"
+    content : "Walls Cascade"
 
 
 #-------------------------------
