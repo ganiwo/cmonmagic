@@ -111,9 +111,46 @@ testimonial__items:
     image: "/images/burek2024.jpg"
     designation: "C'mon! Poznań 2024"
     link: "https://melee.gg/Decklist/View/375723"
-    content : "Walls Cascade"
+    content : "Walls Cascade, March 2024"
 
+  - name: "Karol Guzy"
+    image: "/images/pr0b2023.jpg"
+    designation: "C'mon! Katowice 2023"
+    link: "https://melee.gg/Decklist/View/324157"
+    content : "Azorius Glitters, September 2023"
 
+  - name: "Karol Chmielewski"
+    image: "/images/chmielu2023.jpg"
+    designation: "C'mon! Warszawa 2023"
+    link: "https://melee.gg/Decklist/View/308897"
+    content : "Mono Red Burn, July 2023"
+
+  - name: "Kuba Tambor"
+    image: "/images/qetta2023.jpg"
+    designation: "C'mon! Kraków 2023"
+    link: "https://melee.gg/Decklist/View/295643"
+    content : "Grixis Affinity, May 2023"
+
+  - name: "Radosław Marszelewski"
+    image: "/images/bombaj2023.jpg"
+    designation: "C'mon! Poznań 2023"
+    content : "Dimir Terror, January 2023"
+
+  - name: "Mirco Ciavatta"
+    image: "/images/mirco2022.jpg"
+    designation: "Pauper@Spodek 2022"
+    content : "Azorius Caw-Gates, September 2022"
+    
+  - name: "Łukasz Kowalewski"
+    image: "/images/tapczan2021.jpg"
+    designation: "Pauper@Spodek 2021"
+    content : "Dimir Faeries, September 2021"
+
+  - name: "Tomasz Myśliwiec"
+    image: "/images/bblurred2022.jpg"
+    designation: "Pauper@Spodek 2020"
+    content : "Esper Familiars, February 2020"
+    
 #-------------------------------
 # Blog Section
 blog:
