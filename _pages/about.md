@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: C'mon! Magic Pauper Series is a two-day celebration of Magic: the Gathering’s Pauper format.
+description: C'mon! Magic Pauper Series is a two-day celebration of Magic the Gathering’s Pauper format.
 permalink: /about/
 image: '/images/bg.jpg'
 image_caption: 'Katowice 2023'
