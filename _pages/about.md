@@ -7,7 +7,7 @@ image: '/images/bg.jpg'
 image_caption: 'Katowice 2023'
 ---
 
-Series started back in 2020 as a community driven event and quickly became well known across the country thanks to the efforts put in by Pauper Polska Discord community, tournament organizers and live stream. First tournament (known as Pauper@Spodek back then) was held in February 2020. Since then we have visited Katowice, Poznań, Cracow and Warsaw. Year by year, event by event C'mon! is growing and we are rapidly approaching the limits as we deifne them today. Community behind Pauper@Spodek is inspired with the growth of the event and is happy to invite you to experience it for yourself!
+Series started back in 2020 as a community driven event and quickly became well known across the country thanks to the efforts put in by Pauper Polska Discord community, tournament organizers and live stream. First tournament (known as Pauper@Spodek back then) was held in February 2020. Since then we have visited Katowice, Poznań, Cracow and Warsaw. With 8 events under our belt C'mon! is growing year after year and we are rapidly approaching the limits as we define them today capped at 128 players. Community behind Pauper@Spodek is inspired with the growth of the event and is happy to invite you to experience it for yourself!
 
 <h3>Sponsorship Opportunities</h3>
 
