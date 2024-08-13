@@ -12,10 +12,10 @@ menu__settings:
   menu__items:
     - title: 'Home'
       url: '/'
+    - title: 'Past Events'
+      url: '/work/'
     - title: 'About'
       url: '/about/'
-#    - title: 'Work'
-#      url: '/work/'
 #    - title: 'Writing'
 #      url: '/blog/'
 #    - title: 'Pages'
