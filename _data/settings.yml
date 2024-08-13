@@ -15,8 +15,8 @@ menu__settings:
     - title: 'Past Events'
       url: '/work/'
       submenu:
-      - url: /work/cmon-poznan-2024/
-      - title: C'mon! Poznań 2024
+      - url: /work/cmon-poznan-2024
+      - title: C'mon!&nbsp;Poznań!&nbsp;2024
     - title: 'About'
       url: '/about/'
 #    - title: 'Writing'
