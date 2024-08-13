@@ -4,7 +4,7 @@ title: Hello, Pauper World!
 description: Welcome to our website!
 date: 2024-08-13
 image: '/images/helloworld.jpg'
-image_caption: 'C'mon! Magic'
+image_caption:
 tags: [news]
 ---
 
