@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About Us
-description: C'mon! Magic Pauper Series is a two-day celebration of Magic the Gathering’s Pauper format.
+description: C'mon! Magic Pauper Series is a two-day celebration of Magic the Gathering’s Pauper format. Organized by the members and supporters of Common Magic Association, a non-profit entity born straight from the heart of Polish Pauper community. Our only goal is to bring regular, high level Pauper tournaments to Poland.
 permalink: /about/
 image: '/images/bg.jpg'
 image_caption: 'Katowice 2023'
