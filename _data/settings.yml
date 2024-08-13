@@ -94,8 +94,8 @@ mailchimp:
 # Work Settings
 work:
   enable: false
-  work__title: Work
-  work__description: I shows only the best websites and portfolios built completely with passion, simplicity & creativity!
+  work__title: Past Events
+  work__description: All the events organized in the Series.
 
 
 #-------------------------------
