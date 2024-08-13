@@ -31,7 +31,7 @@ menu__settings:
 author:
   author__name: C'mon! Magic Pauper Series
   author__bio: Community-driven tournaments in Poland. Come and play!
-#  author__avatar: '/images/cmonavatar.jpg'
+  author__avatar: '/images/cmonavatar.jpg'
 
 social:
 - {icon: "ion-logo-youtube", link: "https://www.youtube.com/@cmonmagic/"}
