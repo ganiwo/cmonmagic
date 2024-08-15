@@ -12,7 +12,7 @@ tags: [news]
 
 #### Pauper Main Event
 
-##### Prizes below are guaranteed.
+Prizes below are guaranteed.
 
 Additional prize support to be announced based on final attendance and sponsorships.
 
