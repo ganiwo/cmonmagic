@@ -12,7 +12,7 @@ tags: [news]
 
 #### Pauper Main Event
 
-<em>Prizes below are guaranteed.</em>
+##### Prizes below are guaranteed.
 
 Additional prize support to be announced based on final attendance and sponsorships.
 
@@ -53,7 +53,7 @@ Tickets are now on sale through Flamberg, our Official Partner for C'mon! Katowi
   <table>
     <tr><th>Ticket type</th><th><p>Early Bird</p><p>until 31.08</p></th><th><p>Regular</p><p>1.09-14.09</p></th><th><p>Last Minute</p><p>starting 15.09</p></th></tr>
     <tr><td>Pauper Main Event - Saturday</td><td>120,- PLN</td><td>130,- PLN</td><td>140,- PLN</td></tr>
-    <tr><td>Pauper Trio - Sunday</td><td>60,- PLN</td><td>65,- PLN</td><td>70,- PLN</td></tr>
+    <tr><td>Pauper Trio - Sunday<br />*price per player</td><td>60,- PLN</td><td>65,- PLN</td><td>70,- PLN</td></tr>
     <tr><td>All Weekend Pass</td><td>170,- PLN</td><td>185,- PLN</td><td>200,- PLN</td></tr>
   </table>
 </div>
