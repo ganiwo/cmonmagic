@@ -45,6 +45,8 @@ Additional prize support to be announced based on final attendance and sponsorsh
 
 Tickets are now on sale through Flamberg, our Official Partner for C'mon! Katowice 2024. Visit <a href="https://flamberg.com.pl/pl/search?text=c%27mon+katowice" target="_blank">flamberg.com.pl</a> to secure your spot! 
 
+Player cap for Main Event is 128 players and 72 players (24 teams) for Pauper Trio. 
+
 (Please note that tickets sales are handled through our partner website that may not be localized in your language.)
 
 #### Ticket prices schedule
@@ -58,4 +60,4 @@ Tickets are now on sale through Flamberg, our Official Partner for C'mon! Katowi
   </table>
 </div>
 
-Ticket prices update automatically in the ticketing system based on the timezone set to CEST.
+Ticket prices update automatically in the system based on the timezone set to CEST.
