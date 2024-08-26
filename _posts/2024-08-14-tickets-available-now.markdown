@@ -54,9 +54,9 @@ Player cap for Main Event is 128 players and 72 players (24 teams) for Pauper Tr
 <div class="table-container">
   <table>
     <tr><th>Ticket type</th><th><p>Early Bird</p><p>until 31.08</p></th><th><p>Regular</p><p>1.09-14.09</p></th><th><p>Last Minute</p><p>starting 15.09</p></th></tr>
-    <tr><td>Pauper Main Event - Saturday</td><td>120,- PLN</td><td>130,- PLN</td><td>140,- PLN</td></tr>
-    <tr><td>Pauper Trio - Sunday<br />*price per player</td><td>60,- PLN</td><td>65,- PLN</td><td>70,- PLN</td></tr>
-    <tr><td>All Weekend Pass</td><td>170,- PLN</td><td>185,- PLN</td><td>200,- PLN</td></tr>
+    <tr><td><a href="https://flamberg.com.pl/pl/products/2024-09-28-cmon-katowice-2024-pauper-main-event-saturday-196644" target="blank">Pauper Main Event - Saturday</a></td><td>120,- PLN</td><td>130,- PLN</td><td>140,- PLN</td></tr>
+    <tr><td><a href="https://flamberg.com.pl/pl/products/2024-09-29-cmon-katowice-2024-pauper-trio-sunday-196648" target="blank">Pauper Trio - Sunday</a><br />*price per player</td><td>60,- PLN</td><td>65,- PLN</td><td>70,- PLN</td></tr>
+    <tr><td><a href="https://flamberg.com.pl/pl/products/2024-09-28-29-cmon-katowice-2024-all-weekend-main-event-trio-196649 target="blank">All Weekend Pass</a></td><td>170,- PLN</td><td>185,- PLN</td><td>200,- PLN</td></tr>
   </table>
 </div>
 
