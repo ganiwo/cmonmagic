@@ -154,10 +154,10 @@ testimonial__items:
 #-------------------------------
 # Blog Section
 blog:
-  enable: false
+  enable: true
 
 blog__settings:
-  blog__title: Writing
+  blog__title: News
   blog__description:
 
 
