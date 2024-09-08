@@ -10,7 +10,9 @@ tags: [news]
 
 ### Exclusive playmats for C'mon! Katowice 2024
 
-Preorder is open for our exclusive event playmats! These are produced to order in limited quantities and all proceedings are used to cover the tournament staff expenses. You can order yours until 11th September 2024. We would like to thank everyone supporting C'mon Magic Pauper Series!
+Preorder is open for our exclusive event playmats, order until 11th September 2024 and collect onsite during the tournament!
+
+These playmats are produced to order in limited quantities and all proceedings are used to cover the tournament staff expenses. We would like to thank everyone supporting C'mon Magic Pauper Series!
 
 #### Three designs available
 
