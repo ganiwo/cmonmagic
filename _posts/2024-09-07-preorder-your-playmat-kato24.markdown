@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Event playmats available for preorder until 11th September 2024
+title: Preorder your playmat until 11th September 2024
 description: Exclusive playmats available for next 5 days.
 date: 2024-09-07
 image: '/images/cmonkatowice24playmat.jpg'
@@ -10,9 +10,9 @@ tags: [news]
 
 ### Exclusive playmats for C'mon! Katowice 2024
 
-Preorder is open for our exclusive event playmats! These are produced to order in limited quantity and all proceedings are used to cover the tournament staff expenses. You can order yours until 11th September 2024. We would like to thank everyone supporting C'mon Magic Pauper Series!
+Preorder is open for our exclusive event playmats! These are produced to order in limited quantities and all proceedings are used to cover the tournament staff expenses. You can order yours until 11th September 2024. We would like to thank everyone supporting C'mon Magic Pauper Series!
 
-#### Three exclusive designs available
+#### Three designs available
 
 <p><a href="https://flamberg.com.pl/pl/products/playmata-cmon-katowice-2024-ciemna-edycja-limitowana-196766" target="_blank"><img src="/images/cmonkatowice24blamat.png" alt="Black playmat" /></a></p>
 <p><a href="https://flamberg.com.pl/pl/products/playmata-cmon-katowice-2024-sepia-edycja-limitowana-196767" target="_blank"><img src="/images/cmonkatowice24semat.png" alt="Sepia playmat" /></a></p>
