@@ -3,7 +3,7 @@ layout: post
 title: Event playmats available for preorder until 11th September 2024
 description: Exclusive playmats available for next 5 days.
 date: 2024-09-07
-image: '/images/cmonkatowice24playmats.jpg'
+image: '/images/cmonkatowice24playmat.jpg'
 image_caption: Playmat art by Jakub Moskwa
 tags: [news]
 ---
