@@ -10,9 +10,9 @@ tags: [news]
 
 ### Pr0boszcz wins again!
 
-Karol Guzy did what nobody did before - he has defended his Championship Title earned during the C'mon! Katowice 2023 with Azorious Glitters by masterfully piloting his Grixis Affinity build through the field of 105 players during C'mon! Katowice 2024. He is the only player so far in the history of our Series to win two times!
+Karol Guzy did what nobody has done before - he has defended his Championship Title earned during the C'mon! Katowice 2023 with Azorious Glitters by masterfully piloting his Grixis Affinity build through the field of 105 players during C'mon! Katowice 2024. He is the only player so far in the history of our Series to win two times!
 
-![Grixis Affinity by Karol Guzy]({{site.baseurl}}/images/cmonkato24finaldeck.jpg#wide)
+![Grixis Affinity by Karol Guzy]({{site.baseurl}}/images/cmonkato24finaldeck.jpg)
 
 <div class="gallery-box">
   <div class="gallery">
