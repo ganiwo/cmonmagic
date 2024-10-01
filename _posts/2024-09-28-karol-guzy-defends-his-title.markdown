@@ -19,7 +19,6 @@ Karol Guzy did what nobody has done before - he has defended his Championship Ti
     <img src="/images/cmonkato24final1.jpg" loading="lazy">
     <img src="/images/cmonkato24final2.jpg" loading="lazy">
     <img src="/images/cmonkato24final3.jpg" loading="lazy">
-    <img src="/images/cmonkato24final4.jpg" loading="lazy">
   </div>
 </div>
 
