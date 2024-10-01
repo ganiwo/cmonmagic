@@ -46,8 +46,8 @@ social:
 hero:
   enable: true
   hero__title: C'mon! Katowice
-  hero__description: 28th-29th September 2024<br /><br />Day 1<br />Pauper Main Event 0930am<br />Pauper Cube<br /><br />Day 2<br />Pauper Trio 1000am<br /><br />Spodek, Al. Korfantego 35, Katowice, Poland<br /><br /><a href="https://flamberg.com.pl/pl/search?text=c%27mon+katowice" target="_blank"><img src="/images/cmonkato24buyticketsbanner.jpg" alt="Buy tickets now!" /></a>
-  hero__image: "/images/cmonkato24poster.jpg"
+  hero__description: 28th-29th September 2024<br /><br />Day 1<br />Pauper Main Event 0930am<br />Pauper Cube<br /><br />Day 2<br />Pauper Trio 1000am<br /><br />Spodek, Al. Korfantego 35, Katowice, Poland<br />
+  hero__image: "/images/cmonkato24pr0b.jpg"
 
 
 #-------------------------------
@@ -107,6 +107,12 @@ testimonial__title: Our Champions
 testimonial__description:
 
 testimonial__items:
+  - name: "Karol Guzy"
+    image: "/images/pr0b2023.jpg"
+    designation: "C'mon! Katowice 2024"
+    link: "https://melee.gg/Decklist/View/432362"
+    content : "Grixis Affinity, September 2024"
+    
   - name: "Aleksander Morgała"
     image: "/images/burek2024.jpg"
     designation: "C'mon! Poznań 2024"
