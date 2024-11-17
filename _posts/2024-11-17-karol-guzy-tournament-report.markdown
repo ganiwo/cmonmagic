@@ -5,7 +5,7 @@ description: Karol "Pr0boszcz" Guzy with his guest article - tournament report f
 date: 2024-11-17
 image: '/images/cmonkato24pr0brep.jpg'
 image_caption:
-tags: [news]
+tags: [news,reports]
 ---
 
 ### Howdy!
