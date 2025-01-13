@@ -1,7 +1,7 @@
 ---
 layout: post
 title: C'mon! Katowice 2024 Winner Report by Pr0boszcz
-description: Karol "Pr0boszcz" Guzy with his guest article - tournament report from C'Mon! Katowice 2024
+description: Karol "Pr0boszcz" Guzy with his guest article - tournament report from C'mon! Katowice 2024
 date: 2024-11-17
 image: '/images/cmonkato24pr0brep.jpg'
 image_caption:
