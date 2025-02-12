@@ -45,9 +45,9 @@ social:
 # Hero Settings
 hero:
   enable: true
-  hero__title: C'mon! Katowice
-  hero__description: 28th-29th September 2024<br /><br />Day 1<br />Pauper Main Event 0930am<br />Pauper Cube<br /><br />Day 2<br />Pauper Trio 1000am<br /><br />Spodek, Al. Korfantego 35, Katowice, Poland<br />
-  hero__image: "/images/cmonkato24pr0b.jpg"
+  hero__title: C'mon! Poznań
+  hero__description: 12th-13th April 2025<br /><br />Day 1<br />Pauper Classic IPT 1000am<br /><br />Day 2<br />Pauper Trio PTE 1000am<br /><br />Sklep Wilczek, Ul. Garbary 64, Poznań, Poland<br />
+  hero__image: "/images/cmonpoz25poster.jpg"
 
 
 #-------------------------------
