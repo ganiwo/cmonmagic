@@ -19,10 +19,10 @@ Additional prize support to be announced based on final attendance and sponsorsh
 3x Modern Horizons 3 Play Booster Box + additional Booster Box when reaching 75, 90, 105 and 120 participants.
 
 Each Booster Box in the Pool, will be divided as follows:
-#1: 12 / 36
-#2: 8 / 36
-#3-4: 4 / 36
-#5-8: 2 / 36
+- #1: 12 / 36
+- #2: 8 / 36
+- #3-4: 4 / 36
+- #5-8: 2 / 36
 
 #### Pauper Unified Trio PTE (Sunday)
 
@@ -31,10 +31,9 @@ Prizes below are based on attendance. Each team adds 3x Modern Horizons 3 Play B
 Additional prize support to be announced based on final attendance and sponsorships.
 
 Each team adds 3x Modern Horizons 3 Play Boosters to the prize pool
-
-#1: 50% of the prize pool
-#2: 25% of the prize pool
-#3-4: 12,5% of the prize pool each
+- #1: 50% of the prize pool
+- #2: 25% of the prize pool
+- #3-4: 12,5% of the prize pool each
 
 ### Tickets available now
 
@@ -55,5 +54,11 @@ Player cap for Main Event is 128 players and 72 players (24 teams) for Pauper Tr
 </div>
 
 Ticket prices update automatically in the system based on the timezone set to CEST.
+
+### Live Stream
+
+This tournament is going to be live streamed at <a href="https://www.youtube.com/@cmonmagic/" target="_blank">https://www.youtube.com/@cmonmagic/</a>.
+
+You may be asked to participate in a feature match.
 
 Are you on Facebook? You can view an <a href="https://www.facebook.com/events/1603624773597682" target="_blank">event page</a> there.
