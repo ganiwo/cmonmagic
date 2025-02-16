@@ -1,6 +1,6 @@
 ---
 layout: post
-title: C'Mon! Poznań 2025 tickets on sale!
+title: C'mon! Poznań 2025 tickets on sale!
 description: Tickets for IPT and PTE are available for purchase now! Secure your seat and see you in Poznań!
 date: 2025-02-14
 image: '/images/cmonpoz25poster.jpg'
