@@ -39,7 +39,7 @@ Each team adds 3x Modern Horizons 3 Play Boosters to the prize pool
 
 Tickets are now on sale through Wilczek, our Official Partner for C'mon! Poznań 2025.
 
-Player cap for Main Event is 128 players and 72 players (24 teams) for Pauper Trio. 
+Player cap for Main Event is 128 players and 90 players (30 teams) for Pauper Trio. 
 
 (Please note that tickets sales are handled through our partner website that may not be localized in your language.)
 
